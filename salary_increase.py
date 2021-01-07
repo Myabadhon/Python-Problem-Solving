@@ -22,4 +22,4 @@ elif salary > 2000:
     percent = 4
 print("Novo salario : %.2f"%salary)
 print("Reajuste ganho : %.2f"%temp_salary)
-print("Em percentual: {}{}".format(percent,"%"))
+print("Em percentual: {} {}".format(percent,"%"))
